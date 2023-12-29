@@ -13,4 +13,4 @@
 
 - 📬 Meus contatos **kawanemboaba10@gmail.com**
 
-- <img src='https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952vm6d7dweb7tce7ekbsntc3gev910dsi4sdlmi0fn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='GIF'>"
+- <img src='https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952vm6d7dweb7tce7ekbsntc3gev910dsi4sdlmi0fn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='GIF' width='300' height='200'>
