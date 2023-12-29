@@ -11,4 +11,6 @@
 
 - ▶️ Meu canal do youtube [https://www.youtube.com/channel/UCsd7vNNhdFo6tYsponkaNGg](https://www.youtube.com/channel/UCsd7vNNhdFo6tYsponkaNGg)
 
-- 📬 Meus contatos **kawanemboaba10@gmail.com** <img src='https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952vm6d7dweb7tce7ekbsntc3gev910dsi4sdlmi0fn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='GIF' width='100' height='100'>
+- 📬 Meus contatos **kawanemboaba10@gmail.com**
+
+  <img src='https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952vm6d7dweb7tce7ekbsntc3gev910dsi4sdlmi0fn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='GIF' width='100' height='100'>
