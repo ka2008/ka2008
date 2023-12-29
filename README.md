@@ -1,16 +1,34 @@
-<h1 align="center">Bem-vindo! Eu sou Kawan Rodrigues :wave:</h1>
-<h3 align="center">Eu sou Kawan Rodrigues, sou apenas um garoto começando o ensino médio que pretende fazer programação. 📝🤓</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Snake Game</title>
+</head>
+<body>
+  <div id="snake"></div>
+  <script src="script.js"></script>
+</body>
+</html>
 
-- 💼 Não faço **Jovem Aprendiz**
+#snake {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  position: absolute;
+}
 
-- 💻 Eu faço o curso da **RocketSeat**
+document.addEventListener('DOMContentLoaded', function () {
+  const snake = document.getElementById('snake');
 
-- 📒 Estou iniciando o **Ensino Médio**
+  function moveSnake() {
+    const left = Math.floor(Math.random() * window.innerWidth);
+    const top = Math.floor(Math.random() * window.innerHeight);
 
-- 🗂️ Meu repositório [https://github.com/ka2008?tab=repositories](https://github.com/ka2008?tab=repositories)
+    snake.style.left = left + 'px';
+    snake.style.top = top + 'px';
+  }
 
-- ▶️ Meu canal do youtube [https://www.youtube.com/channel/UCsd7vNNhdFo6tYsponkaNGg](https://www.youtube.com/channel/UCsd7vNNhdFo6tYsponkaNGg)
-
-- 📬 Meus contatos **kawanemboaba10@gmail.com**
-
-  <img src='https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952vm6d7dweb7tce7ekbsntc3gev910dsi4sdlmi0fn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='GIF' width='100' height='100'>
+  setInterval(moveSnake, 1000); // Move a cobrinha a cada segundo
+});
