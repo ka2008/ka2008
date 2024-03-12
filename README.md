@@ -34,3 +34,5 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 ---
 
 ⭐️ Se gostar de algum projeto, não esqueça de dar uma estrela! ⭐️
+
+![Hollow Knight](https://media1.tenor.com/m/hdHxFwuzAPUAAAAC/hollow-knight-the-knight.gif)
