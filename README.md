@@ -35,4 +35,4 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 
 ⭐️ Se gostar de algum projeto, não esqueça de dar uma estrela! ⭐️
 
-<img src="https://c.tenor.com/eFWg68USeZgAAAAd/tenor.gif">
+<img src="https://c.tenor.com/eFWg68USeZgAAAAd/tenor.gif" width="200" height="200">
