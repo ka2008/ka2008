@@ -16,13 +16,6 @@ Sou um entusiasta da programação, ainda aprendendo e explorando o vasto mundo 
 - 📺 [YouTube](https://www.youtube.com/channel/UCsd7vNNhdFo6tYsponkaNGg)
 - 📧 Email: kawanemboaba10@gmail.com
 
-## Ferramentas:
-
-Estas são algumas das ferramentas que utilizo no meu dia a dia:
-
-- 🛠️ Git
-- 💻 Visual Studio 2019
-
 Sinta-se à vontade para explorar meus repositórios para ver mais!
 
 ## Contribuições:
