@@ -39,4 +39,7 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 
 <img src="https://c.tenor.com/eFWg68USeZgAAAAd/tenor.gif" width="200" height="200">
 
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
