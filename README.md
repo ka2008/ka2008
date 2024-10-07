@@ -19,7 +19,7 @@ Sou um entusiasta da programação, ainda aprendendo e explorando o vasto mundo 
 Estas são algumas das ferramentas que utilizo no meu dia a dia:
 
 - 🛠️ Git
-- 💻 Visual Studio Code
+- 💻 Visual Studio 2019
 
 Sinta-se à vontade para explorar meus repositórios para ver mais!
 
@@ -35,4 +35,4 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 
 ⭐️ Se gostar de algum projeto, não esqueça de dar uma estrela! ⭐️
 
-<img src="https://media1.tenor.com/m/hdHxFwuzAPUAAAAC/hollow-knight-the-knight.gif" width="200" height="200">
+<img src="[https://media1.tenor.com/m/hdHxFwuzAPUAAAAC/hollow-knight-the-knight.gif" width="200" height="200](https://media1.tenor.com/m/eFWg68USeZgAAAAd/computer-hacker-fallout.gif)">
