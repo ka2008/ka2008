@@ -35,4 +35,4 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 
 ⭐️ Se gostar de algum projeto, não esqueça de dar uma estrela! ⭐️
 
-<img src="[https://media1.tenor.com/m/hdHxFwuzAPUAAAAC/hollow-knight-the-knight.gif" width="200" height="200](https://media1.tenor.com/m/eFWg68USeZgAAAAd/computer-hacker-fallout.gif)">
+<img src="https://c.tenor.com/eFWg68USeZgAAAAd/tenor.gif">
