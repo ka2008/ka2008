@@ -1,3 +1,5 @@
+<div align="center">
+
 # Kawan Rodrigues
 
 Bem-vindo ao meu perfil do GitHub! 👋
@@ -36,3 +38,5 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 ⭐️ Se gostar de algum projeto, não esqueça de dar uma estrela! ⭐️
 
 <img src="https://c.tenor.com/eFWg68USeZgAAAAd/tenor.gif" width="200" height="200">
+
+</div>
