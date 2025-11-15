@@ -1,10 +1,13 @@
-## Opa, Eu sou Kawan Rodrigues :P
+# 👋 Opa! Eu sou o Kawan Rodrigues :P
 
-Bem-vindo ao meu perfil do GitHub! 
-Sou um cara qualquer que decidiu ser programador. Atualmente, estou focado em aprimorar minhas habilidades de programação. Estudante nerdola.
+> Um mero mortal tentando virar dev.  
+> Movido a café, bugs ocasionais e playlists duvidosas.
 
-- Amo café (eu já disse que amo café?)
+## 💻 Sobre mim
+- Estudante nerdola e desenvolvedor em construção.  
+- Sempre tentando ficar menos ruim em programação (um commit de cada vez).  
+- Café é meu combustível oficial…
 
-- Eu gosto de desenhar também
-
-
+## 🎨 Hobbies
+- Desenhar quando a cabeça precisa respirar.  
+- Aprender coisas novas só pela diversão de quebrar a cabeça depois.
